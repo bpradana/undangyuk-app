@@ -74,14 +74,14 @@
                     <div class="col-lg-4">
                         <div class="features-icons-item mx-auto mb-5 mb-lg-0 mb-lg-3">
                             <div class="features-icons-icon d-flex"><i class="bi-window m-auto text-primary"></i></div>
-                            <h3>Fully Responsive</h3>
+                            <h3>Budi Susanto</h3>
                             <p class="lead mb-0">This theme will look great on any device, no matter the size!</p>
                         </div>
                     </div>
                     <div class="col-lg-4">
                         <div class="features-icons-item mx-auto mb-5 mb-lg-0 mb-lg-3">
                             <div class="features-icons-icon d-flex"><i class="bi-layers m-auto text-primary"></i></div>
-                            <h3>Bootstrap 5 Ready</h3>
+                            <h3>Budi Susanto</h3>
                             <p class="lead mb-0">Featuring the latest build of the new Bootstrap 5 framework!</p>
                         </div>
                     </div>
@@ -124,7 +124,7 @@
         <!-- Testimonials-->
         <section class="testimonials text-center bg-light">
             <div class="container">
-                <h2 class="mb-5">What people are saying...</h2>
+                <h2 class="mb-5">Testimoni Pelanggan</h2>
                 <div class="row">
                     <div class="col-lg-4">
                         <div class="testimonial-item mx-auto mb-5 mb-lg-0">
